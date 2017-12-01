@@ -11,5 +11,10 @@
     "url": "Weather-js"
   },
   "author": "Jason",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {}
 }
